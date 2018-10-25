@@ -1,4 +1,0 @@
-Amy 3 1 2000 7 3 math 89 art 89 english 68
-Bob 2 0 1990 9 7 math 80 art 80 english 69
-Alice 4 1 1998 9 8 math 88 art 70 english 68
-Tom 1 0 1999 8 2 math 60 art 66 english 89
